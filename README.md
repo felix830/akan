@@ -3,8 +3,8 @@
 #### By Felix Onyango
 ## Description
 This project is a web application that gives out the Akan name depending on your date of birth and the day of the week you were born.
-Live link:https:// felix830.github.io/portfolio/
-## setup/ installation Requarements
+Live link: https://felix830.github.io/project2/ 
+# setup/ installation Requarements
  one is requared to have a well functioning laptop with the fillowing:
   core i5
   Availlable good working nertwork
